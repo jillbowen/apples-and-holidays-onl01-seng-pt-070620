@@ -83,14 +83,6 @@ def all_holidays_with_bbq(holiday_hash)
       
 end
 
-#holiday_hash.map do |season, holidays| 
-#if season == :winter
-#       holidays.map do |holiday, holiday_supplies|
-#         holiday_supplies
-#           end
-#         end
-#       end.flatten
-
 
 
 
