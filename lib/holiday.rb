@@ -75,7 +75,7 @@ def all_holidays_with_bbq(holiday_hash)
       holiday
       supplies.map do |item|
         if item == "BBQ"
-          return holiday  
+          return holidays  
         end
       end
     end
